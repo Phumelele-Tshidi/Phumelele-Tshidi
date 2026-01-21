@@ -1,14 +1,14 @@
-# Hi, I'm Phumelele Tshidi
+## Hi, I'm Phumelele Tshidi
 
-## About me
+### About me
 
-- I work as a Product Builder for Stryker Neurovascular in Cork.
-- Previous experience in Healthcare sector.
+- I work as a Product Builder in Stryker Neurovascular in Cork.
+- I have previous experience in Healthcare sector working as a Radiographer.
 - I'm  currently pursuing a Higher Diploma in Data Analytics at Atlantic Technological university.
 - I have built a solid technical foundation in Machine Learning, Programming, Scripting, Principles of Data Analytics, Applied Statistics, Applied Databases, Web Services and Applications.
-- I'm looking for job opportunities in Data Science for more experiencce.
+- I'm looking for job opportunities in Data Analytics to expand my expertise.
 
-## Featured Projects
+### Featured Projects
 
 1. [Applied Statistics](https://github.com/Phumelele-Tshidi/applied-statistics)
    - Contains various statistical tasks and analyses implemented in Tasks Jupyter notebook, aimed at providing practical examples of commonly used statistical methods.
@@ -34,16 +34,24 @@
 
    - This project is about Iris dataset, also known as Fisher's Iris dataset. It is a commonly used dataset to understand classification and clustering algorithms in machine learning and statistics.
 
-## Technical Skills
+### Technical Skills
 
-### Language and Tools
-
+#### Language and Tools
 - Python
 - SQL
 - Javascript
  
-### Data Analytics
+#### Data Analytics
 - Data cleaning and preprocessing
 - Exploratory data analysis (EDA)
 - Applied Statistics
 - Data Visualisation
+
+#### Databases and Web
+- Relational databases
+- SQL querying
+- APIs and web services
+
+  ### Contact
+- Email: <phumitshidi@gmail.com>
+- LinkedIn: <https://www.linkedin.com/in/phumi-tshidi-4135b7194/>
