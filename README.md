@@ -12,26 +12,38 @@
 
 1. [Applied Statistics](https://github.com/Phumelele-Tshidi/applied-statistics)
    - Contains various statistical tasks and analyses implemented in Tasks Jupyter notebook, aimed at providing practical examples of commonly used statistical methods.
-    
+  
    - The Project Jupyter notebook performs an analysis on the PlantGrowth dataset from R.
 
 2. [Palmer Penguins Dataset](https://github.com/Phumelele-Tshidi/mywork)
 
    - The Palmer penguins Dataset contains data for 344 adult penguins of 3 different species (Adelie, Gentoo and Chinstrap), from 3 differrent islands in the Palmer Archipelago, Antarctica. It is used for exploration and visualisation, offering an alternative to highly over used Iris dataset.
 
-4. [RESTful API](https://github.com/Phumelele-Tshidi/wsaa-project)
+3. [RESTful API](https://github.com/Phumelele-Tshidi/wsaa-project)
    - A simple RESTful API built with Flask and MySQL for managing grocery items. It also includes a basic HTML/Javascript frontend to interact with the API.
    
-5. [Roches Point Weather](https://github.com/Phumelele-Tshidi/pfda-project)
+4. [Roches Point Weather](https://github.com/Phumelele-Tshidi/pfda-project)
 
    - This repository contains a Jupyter notebook that performs data analysis on wind speed dataset using Python-based data tools. The notebook demonstrates how to clean, process, and analyze wind speed data, providing insights and visualizations based on the dataset.
 
-7. [Scripting Tasks](https://github.com/Phumelele-Tshidi/computer-infrastructure)
+5. [Scripting Tasks](https://github.com/Phumelele-Tshidi/computer-infrastructure)
 
    - This repository contains various tasks and scripts related to computer infrastructure management and automation. The focus is on creating, managing, and timestamping files and directories, downloading data, and performing basic scripting tasks.
 
-9. []()
+6. [Pands Project](https://github.com/Phumelele-Tshidi/pands-project)
 
-10. []()
+   - This project is about Iris dataset, also known as Fisher's Iris dataset. It is a commonly used dataset to understand classification and clustering algorithms in machine learning and statistics.
 
-11. 
+## Technical Skills
+
+### Language and Tools
+
+- Python
+- SQL
+- Javascript
+ 
+### Data Analytics
+- Data cleaning and preprocessing
+- Exploratory data analysis (EDA)
+- Applied Statistics
+- Data Visualisation
