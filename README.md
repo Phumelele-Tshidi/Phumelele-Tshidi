@@ -52,6 +52,6 @@
 - SQL querying
 - APIs and web services
 
-  ### Contact
+### Contact
 - Email: <phumitshidi@gmail.com>
 - LinkedIn: <https://www.linkedin.com/in/phumi-tshidi-4135b7194/>
